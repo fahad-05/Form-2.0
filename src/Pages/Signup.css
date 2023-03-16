@@ -1,0 +1,46 @@
+.signup-button {
+    margin-top: 10px;
+}
+
+.signup-form-header {
+    color: #297edf;
+    font-weight: 800;
+    display: flex;
+    justify-content: center;
+}
+
+.signupbg {
+    background-color: #1a1a1a;
+    height: 100vh;
+    width: 100%;
+    position: fixed;
+    z-index: -1;
+    /* background-image: url("https: //www.google.com/url?sa=i&url=https%3A%2F%2Fhdqwalls.com%2Fbeautiful-morning-in-mountains-4k-wallpaper&psig=AOvVaw1ITYdEJJt074UqxznGatQE&ust=1677754490672000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMDNqNXIuv0CFQAAAAAdAAAAABAx");
+    background-position: center; */
+}
+
+.signup-form fieldset {
+    margin-bottom: 2rem;
+    border: none;
+}
+
+.signup-formbox {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.secondary-signup-formbox {
+    background-color: white;
+    padding: 2rem;
+    border-radius: 5px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+    width: 90%;
+    max-width: 500px;
+}
+
+.signup-button-box{
+    display: flex;
+    justify-content: flex-end;
+}
